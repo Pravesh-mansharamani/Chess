@@ -7,4 +7,4 @@ Final Project for CS 246
 - [Purav Madhan](https://www.linkedin.com/in/purav-madhan-3ba794209/)
 
 # Source Code:
-If you would like to view the source code email me at [pmmansha@uwaterloo.ca](mailto:pmmansha@uwaterloo.ca)
+If you would like to view the source code email me at [pmmansha@uwaterloo.ca](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pmmansha@uwaterloo.ca)
